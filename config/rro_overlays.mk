@@ -27,3 +27,7 @@ PRODUCT_PACKAGES += \
     PixelFwResOverlay \
     GoogleConfigOverlay \
     SystemUIGoogleOverlay
+
+# Themes
+PRODUCT_PACKAGES += \
+    BlackThemeOverlay
