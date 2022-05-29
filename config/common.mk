@@ -95,6 +95,10 @@ PRODUCT_ARTIFACT_PATH_REQUIREMENT_ALLOWED_LIST += \
 PRODUCT_PACKAGES += \
     SimpleDeviceConfig
 
+# Game Space
+PRODUCT_PACKAGES += \
+    GameSpace
+
 # Storage manager
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.storage_manager.enabled=true
